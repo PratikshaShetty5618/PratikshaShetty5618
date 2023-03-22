@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working as a Engineer - Cloud Services and Software in LTIMindtree
+- 🔭 I’m currently working as an Engineer - Cloud Services and Software in LTIMindtree
 - 🌱 My skills include Python | SQL | PySpark | AWS | Databricks | Flask
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I have no hobbies 😬
