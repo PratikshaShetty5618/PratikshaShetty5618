@@ -1,9 +1,13 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working as an Engineer - Cloud Services and Software in LTIMindtree
-- 🌱 My skills include Python | SQL | PySpark | AWS | Databricks | Flask
+- 🌱 I’m currently learning big data technologies and cloud
+- 🧰 My skills include Python | SQL | PySpark | AWS | Databricks | Flask
+- 📫 How to reach me: pratikshashetty5618@gmail.com
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I have no hobbies 😬
+
+
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PratikshaShetty5618&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
@@ -26,4 +30,6 @@ Here are some ideas to get you started:
   <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
   <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
 </picture>
+
+- Vistors: ![Visitors](https://visitor-badge.glitch.me/badge?page_id=PratikshaShetty5618.PratikshaShetty5618)
 -->
